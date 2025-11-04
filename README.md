@@ -1,22 +1,95 @@
 <div align="center">
 
-# 🤖 Discord Bot
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Discord%20Bot&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
-### A modular Discord bot with moderation, audit logging, and more
+<br/>
 
-[![Node.js](https://img.shields.io/badge/node-%3E%3D18.17-brightgreen.svg)](https://nodejs.org/)
-[![Discord.js](https://img.shields.io/badge/discord.js-v14-blue.svg)](https://discord.js.org/)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+<!-- Typing Animation for subtitle -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Modular+Discord+Bot;Moderation+%2B+Audit+Logging;Built+with+Discord.js+v14" alt="Typing SVG" />
+</p>
 
----
+<!-- Badges with animations -->
+<p align="center">
+  <a href="https://nodejs.org/">
+    <img src="https://img.shields.io/badge/Node.js-%3E%3D18.17-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  </a>
+  <a href="https://discord.js.org/">
+    <img src="https://img.shields.io/badge/Discord.js-v14-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js"/>
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License"/>
+  </a>
+</p>
 
-**Note:** This project is inspired by and builds upon ideas from [Milrato's Discord Bot](https://github.com/Tomcat-SL/Milrato-Discord-Bot), which is no longer maintained. Many concepts and features were adapted from that project.
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Lithap/clan-bot?style=social" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/Lithap/clan-bot?style=social" alt="Forks"/>
+  <img src="https://img.shields.io/github/issues/Lithap/clan-bot?style=flat-square" alt="Issues"/>
+  <img src="https://img.shields.io/github/last-commit/Lithap/clan-bot?style=flat-square" alt="Last Commit"/>
+</p>
 
----
+<!-- Divider with gradient -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Note with animated box -->
+<table>
+<tr>
+<td>
+
+### 💡 Project Origins & Credits
+
+> **Important:** This project is heavily inspired by and builds upon the amazing work of **[Tomato (Milrato)](https://github.com/Tomcat-SL)** and their **[Milrato Discord Bot](https://github.com/Tomcat-SL/Milrato-Discord-Bot)** project.
+>
+> While Milrato's bot is no longer actively maintained, it served as the foundation and inspiration for many of the architectural decisions, features, and design patterns used in this project. This bot would not exist without Tomato's pioneering work in the Discord bot development space.
+>
+> **All credit for the original concepts, structure, and innovation goes to Tomato/Milrato.** 🙏
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
 ## ✨ Features
+
+<!-- Features with animated icons -->
+<div align="center">
+
+```mermaid
+graph LR
+    A[🤖 Bot Core] --> B[🛡️ Moderation]
+    A --> C[📊 Information]
+    A --> D[🔍 Audit Logs]
+    A --> E[⚙️ System]
+
+    B --> F[Ban/Kick/Timeout]
+    B --> G[Lockdown System]
+    B --> H[Warning System]
+
+    C --> I[Server Stats]
+    C --> J[User Profiles]
+    C --> K[Role/Channel Info]
+
+    D --> L[48+ Events]
+    D --> M[Categorized Logs]
+    D --> N[Voice Tracking]
+
+    E --> O[Web Dashboard]
+    E --> P[Plugin System]
+    E --> Q[Hot Reload]
+
+    style A fill:#5865F2,stroke:#fff,stroke-width:2px,color:#fff
+    style B fill:#ED4245,stroke:#fff,stroke-width:2px,color:#fff
+    style C fill:#57F287,stroke:#fff,stroke-width:2px,color:#fff
+    style D fill:#FEE75C,stroke:#fff,stroke-width:2px,color:#000
+    style E fill:#EB459E,stroke:#fff,stroke-width:2px,color:#fff
+```
+
+</div>
 
 <table>
 <tr>
@@ -24,22 +97,22 @@
 
 ### 🛡️ Moderation
 
-- Ban, kick, timeout, warn users
-- Emergency server lockdown
-- Bulk message deletion
-- Channel nuking
-- Configurable warning system
+- ⚔️ Ban, kick, timeout, warn users
+- 🔒 Emergency server lockdown
+- 🗑️ Bulk message deletion
+- 💥 Channel nuking
+- ⚖️ Configurable warning system
 
 </td>
 <td width="50%">
 
 ### 📊 Information
 
-- Server statistics
-- User profiles & badges
-- Role & channel details
-- Avatar & banner viewer
-- Interactive help menu
+- 📈 Server statistics
+- 👤 User profiles & badges
+- 🎭 Role & channel details
+- 🖼️ Avatar & banner viewer
+- 📖 Interactive help menu
 
 </td>
 </tr>
@@ -48,22 +121,22 @@
 
 ### 🔍 Audit Logging
 
-- 48+ tracked Discord events
-- Organized by categories
-- Message, member, server changes
-- Voice state tracking
-- Moderation actions
+- 📝 48+ tracked Discord events
+- 📂 Organized by categories
+- 💬 Message, member, server changes
+- 🔊 Voice state tracking
+- 🔨 Moderation actions
 
 </td>
 <td width="50%">
 
 ### ⚙️ System
 
-- Web dashboard on port 3000
-- Plugin architecture
-- Hot-reload support
-- Metrics endpoint
-- Crash reporting
+- 🌐 Web dashboard on port 3000
+- 🔌 Plugin architecture
+- 🔥 Hot-reload support
+- 📊 Metrics endpoint
+- 💾 Crash reporting
 
 </td>
 </tr>
@@ -263,14 +336,79 @@ Plugins load automatically on startup.
 
 MIT License - See [LICENSE](LICENSE) file for details
 
-## 🙏 Acknowledgments
+## 🙏 Acknowledgments & Credits
 
-This project was inspired by [Milrato's Discord Bot](https://github.com/Tomcat-SL/Milrato-Discord-Bot). While Milrato's bot is no longer maintained, many of the design patterns and feature ideas originated from that project. Thank you to the Milrato team for their contributions to the Discord bot development community.
+<div align="center">
+
+### Special Thanks to Tomato (Milrato) 🎖️
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+This entire project is based on the incredible work of **[Tomato (Milrato)](https://github.com/Tomcat-SL)**.
+
+The **[Milrato Discord Bot](https://github.com/Tomcat-SL/Milrato-Discord-Bot)** project was a groundbreaking, feature-rich Discord bot that set the standard for modular bot architecture. Although it's no longer actively maintained, it remains one of the most influential Discord bot projects in the community.
+
+**What we adapted from Milrato:**
+- 🏗️ Modular command and event architecture
+- 🎨 UI/UX design patterns and embed styling  
+- 🔧 Advanced moderation systems
+- 📊 Audit logging structure
+- ⚙️ Plugin system concepts
+- 🛠️ Overall project organization
+
+**This project would not exist without Tomato's vision, innovation, and contributions to the Discord bot development community.**
+
+Thank you, Tomato! 🙏❤️
+
+🔗 **Original Project:** [Milrato Discord Bot](https://github.com/Tomcat-SL/Milrato-Discord-Bot)  
+👤 **Creator:** [Tomato/Tomcat-SL](https://github.com/Tomcat-SL)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 <div align="center">
 
-Made with ❤️ using Discord.js v14
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 📊 Repository Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lithap&repo=clan-bot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lithap&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="48%"/>
+</p>
+
+<!-- Language Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lithap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="Top Languages" width="48%"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lithap&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff" width="100%" alt="Contribution Graph"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 🛠️ Built With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,javascript,discord,git,github,vscode,npm" alt="Tech Stack"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Made with love badge -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=435&lines=Made+with+%E2%9D%A4%EF%B8%8F+using+Discord.js+v14;Open+Source+%7C+MIT+License;Star+%E2%AD%90+if+you+like+it!" alt="Made with love" />
+
+<!-- Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
