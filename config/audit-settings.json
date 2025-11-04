@@ -1,0 +1,10 @@
+{
+  "$schema": "https://json-schema.org/draft-07/schema",
+  "version": "2.0.0",
+  "metadata": {
+    "description": "Audit logging configuration",
+    "lastModified": "2025-11-04T00:00:00Z",
+    "configFormat": "categories"
+  },
+  "guilds": {}
+}

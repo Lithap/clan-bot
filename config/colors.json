@@ -1,0 +1,19 @@
+{
+  "brand": {
+    "primary": "#4F46E5",
+    "success": "#10B981",
+    "warning": "#F59E0B",
+    "danger": "#EF4444",
+    "info": "#06B6D4"
+  },
+  "status": {
+    "healthy": "#10B981",
+    "degraded": "#F59E0B",
+    "critical": "#EF4444"
+  },
+  "neutral": {
+    "muted": "#64748B",
+    "light": "#CBD5E1",
+    "dark": "#0F172A"
+  }
+}

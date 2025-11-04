@@ -1,0 +1,48 @@
+{
+  "name": "clan-bot",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=18.17"
+  },
+  "scripts": {
+    "dev": "node --watch src/index.js",
+    "start": "node src/index.js",
+    "register": "node scripts/registerCommands.js",
+    "lint": "eslint . --ext .js",
+    "lint:fix": "eslint . --ext .js --fix",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "dependencies": {
+    "@distube/ytdl-core": "^4.16.12",
+    "@snazzah/davey": "^0.1.7",
+    "colorette": "^2.0.20",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "ffmpeg-static": "^5.2.0",
+    "libsodium-wrappers": "^0.7.15",
+    "ora": "^8.0.1",
+    "pino": "^9.4.0",
+    "pino-pretty": "^11.2.2",
+    "sodium-native": "^5.0.9",
+    "string-width": "^7.2.0",
+    "strip-ansi": "^7.1.0",
+    "wrap-ansi": "^9.0.0",
+    "youtube-sr": "^4.3.12",
+    "ytsr": "^3.8.4",
+    "zod": "^3.23.8"
+  },
+  "optionalDependencies": {
+    "@napi-rs/canvas": "^0.1.56",
+    "prom-client": "^15.1.3"
+  },
+  "devDependencies": {
+    "eslint": "^9.10.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-unused-imports": "^4.1.3",
+    "prettier": "^3.3.3"
+  }
+}
