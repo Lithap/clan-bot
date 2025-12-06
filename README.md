@@ -1,24 +1,20 @@
 <div align="center">
 
-<!-- Animated Title -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&duration=3000&pause=1000&color=5865F2&center=true&vCenter=true&width=450&lines=🤖+Discord+Bot" alt="Title" />
+# 🤖 Discord Bot
 
-<!-- Animated Tagline -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=7289DA&center=true&vCenter=true&width=400&lines=Modular+•+Powerful+•+Extensible;Built+with+Discord.js+v14;Open+Source+%7C+MIT+License" alt="Tagline" />
+**Modular • Powerful • Extensible**
 
-<br><br>
+<br>
 
-<!-- Badges -->
 ![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0d1117)
 ![Discord.js](https://img.shields.io/badge/Discord.js-v14-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)
 ![License](https://img.shields.io/badge/License-MIT-F7DF1E?style=for-the-badge&labelColor=0d1117)
 
 <br>
 
-[`Features`](#-features) · [`Install`](#-quick-start) · [`Commands`](#-commands) · [`Config`](#️-configuration)
+[`Features`](#-features) · [`Install`](#-quick-start) · [`Commands`](#-commands) · [`Config`](#-configuration)
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
 <sub>Based on [Milrato's Bot](https://github.com/Tomato6966/Multipurpose-discord-bot)</sub>
 
@@ -26,7 +22,7 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"/> Features
+## ✨ Features
 
 <table>
 <tr>
@@ -71,7 +67,7 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"/> Quick Start
+## 🚀 Quick Start
 
 ```bash
 # Clone & Install
@@ -94,7 +90,7 @@ npm run register && npm run dev
 
 <br>
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"/> Configuration
+## ⚙️ Configuration
 
 | Variable | Required | Description |
 |:---------|:--------:|:------------|
@@ -106,7 +102,7 @@ npm run register && npm run dev
 
 <br>
 
-## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="25"/> Commands
+## 📋 Commands
 
 | Category | Commands |
 |:--------:|:---------|
@@ -117,7 +113,7 @@ npm run register && npm run dev
 
 <br>
 
-## <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="25"/> Structure
+## 📁 Structure
 
 ```
 📦 discord-bot
@@ -133,7 +129,7 @@ npm run register && npm run dev
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"/> Development
+## 🔧 Development
 
 | Command | Action |
 |:--------|:-------|
@@ -159,10 +155,6 @@ npm run register && npm run dev
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br>
-
 ### Tech Stack
 
 <img src="https://skillicons.dev/icons?i=nodejs,js,discord,git,npm&theme=dark"/>
@@ -175,10 +167,8 @@ npm run register && npm run dev
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2500&pause=1000&color=5865F2&center=true&vCenter=true&width=400&lines=Made+with+❤️+by+Lithap;Powered+by+Discord.js+v14;Open+Source+•+MIT+License" alt="Footer" />
+**Made with ❤️ by [Lithap](https://github.com/Lithap)**
 
-<br>
-
-**[MIT License](LICENSE)** · **[Lithap](https://github.com/Lithap)**
+**[MIT License](LICENSE)** • Powered by Discord.js v14
 
 </div>
