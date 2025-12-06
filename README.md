@@ -1,17 +1,10 @@
 <div align="center">
 
-<br>
-
-<!-- Animated Bot Icon -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=60&duration=1&pause=99999&color=5865F2&center=true&vCenter=true&width=100&lines=%F0%9F%A4%96" alt="Bot"/>
-
-<br>
-
 <!-- Animated Title -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=5865F2&center=true&vCenter=true&width=400&lines=Discord+Bot;Moderation+Bot;Audit+Log+Bot" alt="Title" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&duration=3000&pause=1000&color=5865F2&center=true&vCenter=true&width=450&lines=🤖+Discord+Bot" alt="Title" />
 
 <!-- Animated Tagline -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=500&color=7289DA&center=true&vCenter=true&width=350&lines=Modular+%E2%80%A2+Powerful+%E2%80%A2+Extensible;Built+with+Discord.js+v14;Open+Source+%7C+MIT+License" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=7289DA&center=true&vCenter=true&width=400&lines=Modular+•+Powerful+•+Extensible;Built+with+Discord.js+v14;Open+Source+%7C+MIT+License" alt="Tagline" />
 
 <br><br>
 
@@ -22,15 +15,12 @@
 
 <br>
 
-<!-- Navigation -->
-[`Features`](#-features) · [`Install`](#-quick-start) · [`Commands`](#-commands) · [`Config`](#%EF%B8%8F-configuration)
-
-<br>
+[`Features`](#-features) · [`Install`](#-quick-start) · [`Commands`](#-commands) · [`Config`](#️-configuration)
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<sup>Based on [Milrato's Bot](https://github.com/Tomato6966/Multipurpose-discord-bot)</sup>
+<sub>Based on [Milrato's Bot](https://github.com/Tomato6966/Multipurpose-discord-bot)</sub>
 
 </div>
 
@@ -169,7 +159,6 @@ npm run register && npm run dev
 
 <div align="center">
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br>
@@ -180,17 +169,15 @@ npm run register && npm run dev
 
 <br><br>
 
-<!-- Stats -->
 ![Stars](https://img.shields.io/github/stars/Lithap/clan-bot?style=for-the-badge&color=5865F2&labelColor=0d1117)
 ![Forks](https://img.shields.io/github/forks/Lithap/clan-bot?style=for-the-badge&color=5865F2&labelColor=0d1117)
 ![Issues](https://img.shields.io/github/issues/Lithap/clan-bot?style=for-the-badge&color=5865F2&labelColor=0d1117)
 
 <br>
 
-<!-- Animated Footer -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=2500&pause=1000&color=5865F2&center=true&vCenter=true&width=400&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Lithap;Powered+by+Discord.js+v14;Open+Source+%E2%80%A2+MIT+License" alt="Footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2500&pause=1000&color=5865F2&center=true&vCenter=true&width=400&lines=Made+with+❤️+by+Lithap;Powered+by+Discord.js+v14;Open+Source+•+MIT+License" alt="Footer" />
 
-<br><br>
+<br>
 
 **[MIT License](LICENSE)** · **[Lithap](https://github.com/Lithap)**
 
