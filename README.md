@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Premium Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=5865F2&height=80"/>
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="80"/>
-
 <br>
+
+<!-- Bot Icon -->
+<img src="https://cdn.discordapp.com/embed/avatars/0.png" width="80" style="border-radius: 50%;"/>
+
+<br><br>
 
 # 🤖 Discord Bot
 
